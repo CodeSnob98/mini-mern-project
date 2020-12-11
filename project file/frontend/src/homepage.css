@@ -1,0 +1,53 @@
+
+  #google{
+      height: 50px;
+      width: 100px;
+      padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #fb{
+    padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#container{
+    height :50vh;
+    width:45vh;
+    border: 2px solid black;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#login{
+    display: flex;
+  justify-content: left;
+}
+#logo{
+    height:10%;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 15px;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center; 
+}
+#error{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    color: red;
+}
+#body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 200px;
+  align-items: center; 
+}
